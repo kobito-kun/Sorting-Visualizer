@@ -1,5 +1,7 @@
 # Sorting Visualization Project
 
+<img src="https://kobi.lol/assets/sorting.webp" alt="Sorting Visualizer"/>
+
 - Bubble Sort
 - Insertion Sort
 - Selection Sort
