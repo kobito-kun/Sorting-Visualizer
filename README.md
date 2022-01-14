@@ -1,9 +1,6 @@
-## Sorting Visualization Project
+## 📊 Sorting Visualization Project
 
 A sorting algorithm visualizer with features to set speed, size and animations.
-
-[Live Preview](https://sorting-visualizer-rouge.vercel.app/)
-[My Website](https://kobi.lol)
 
 ## Algorithms Used
 #### Bubble Sort
